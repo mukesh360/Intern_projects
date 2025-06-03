@@ -47,8 +47,8 @@ button[type="submit"]:hover {
     background-color: #45a049;
 }
 
-.delete-btn {
-    background-color: #f44336;
+.delete-btn{
+    background-color: #f44336 !important;
     padding: 5px 10px;
     font-size: 14px;
 }

@@ -26,9 +26,7 @@
         {% if history %}
         <div class="history">
             <h2>Analysis History</h2>
-            <form method="POST" action="{{ url_for('delete_all') }}" onsubmit="return confirm('Are you sure you want to delete ALL records?');">
-                <button type="submit" class="delete-all">Delete All Records</button>
-            </form>
+            
             <table>
                 <thead>
                     <tr>
