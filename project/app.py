@@ -1,5 +1,5 @@
 from textblob import TextBlob
-from flask import Flask, render_template, request, flash, redirect, url_for
+from flask import Flask, render_template, request, flash, redirect,url_for
 from flask_mysqldb import MySQL
 
 app = Flask(__name__)
