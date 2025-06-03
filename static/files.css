@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(32, 31, 31) !important;
+    font-family: 'poppins';
+    
+}
+button {
+    margin-top: 15px !important;
+    border-radius: 10px !important;
+    /* border-style: solid; */
+    color: #f9f9f9;
+    background-color: #134e51 !important;
+}
+.bt-home{
+    border-radius: 10px !important;
+    margin-top: 14px !important;
+    text-decoration: none !important;
+    background-color:#134e51 !important ;
+    color:#f9f9f9 !important;
+}
+#bt-home{
+    color:#f9f9f9;
+   margin-top: 40px !important;
+   margin-right: 10px !important;
+}
+a{
+    text-decoration: none !important;
+}
+
+
+ .del-btn{
+    border-style: none !important;
+ }
